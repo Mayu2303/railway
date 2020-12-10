@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "936324418686",
+    "firebase_url": "https://railway-reservation-6cd00.firebaseio.com",
+    "project_id": "railway-reservation-6cd00",
+    "storage_bucket": "railway-reservation-6cd00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936324418686:android:a70a4f86f2e26c19ff1c2f",
+        "android_client_info": {
+          "package_name": "com.example.railway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936324418686-6im335omr82ncnr8gua4dl0pa37i01fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkywT_7a7KLB8PFVHn_d70jstBOYsD69o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936324418686-6im335omr82ncnr8gua4dl0pa37i01fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
